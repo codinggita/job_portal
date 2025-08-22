@@ -8,8 +8,8 @@
 * **Node Server**: [Backend](https://jobmentum.onrender.com)
 * **Frontend**: [Frontend](https://jomentum.netlify.app)
 * **Documentation:** [API Documentation](https://documenter.getpostman.com/view/39189648/2sAYX9kzJW)
-* **Backend Repo**: [GitHub - Backend](https://github.com/Priyasha-Yadav/Job-Portal/tree/main/backend)
-* **Frontend Repo**: [GitHub - Frontend](https://github.com/Priyasha-Yadav/Job-Portal/tree/main/frontend)  
+* **Backend Repo**: [GitHub - Backend](https://github.com/codinggita/job_portal/tree/main/backend)
+* **Frontend Repo**: [GitHub - Frontend](https://github.com/codinggita/job_portal/tree/main/frontend)  
 
 _For more detailed setup and usage instructions, visit the respective **[Frontend README](https://github.com/Priyasha-Yadav/Job-Portal/tree/main/frontend/README.md)** and **[Backend README](https://github.com/Priyasha-Yadav/Job-Portal/tree/main/backend/README.md)** files._
 
